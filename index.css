@@ -1,0 +1,14 @@
+.contextual{
+    max-width: 700px;
+  margin: auto;
+}
+.navbar-expand-lg{
+    flex-flow:row wrap;
+}
+.nav-link:hover{
+    color:black;
+    font-weight: bold;
+    
+}
+
+    
